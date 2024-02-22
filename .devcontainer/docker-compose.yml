@@ -29,3 +29,6 @@ services:
     hostname: apprise
 volumes:
   postgres-data: null
+
+
+
